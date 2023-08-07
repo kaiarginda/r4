@@ -14,7 +14,7 @@ function App() {
           path="/r4"
           element={[<Hero />, <Projects />, <Stun />, <Contact />, <Footer />]}
         ></Route>
-        <Route path="/about" element={[<About />]}></Route>
+        <Route path="/r4/about" element={[<About />]}></Route>
       </Routes>
     </div>
   );
