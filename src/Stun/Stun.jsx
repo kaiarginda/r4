@@ -17,6 +17,7 @@ const Stun = () => {
           <Link to="/r4/about" className="c-l">
             <button>Read More</button>
           </Link>
+          <Link to='/op'>Clcik me</Link>
         </div>
       </div>
     </div>
